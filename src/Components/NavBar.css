@@ -1,0 +1,9 @@
+/* Navbar.css or inline */
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #ccffcc;
+  }
+  

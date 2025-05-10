@@ -1,0 +1,53 @@
+.aboutus-container {
+   
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .aboutus-image {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 10px;
+  }
+  
+  .promise-section {
+    margin-top: 40px;
+  }
+  
+  .promise-heading {
+    color: #7A491F;
+  }
+  
+  .promise-cards {
+    display: flex;
+    background-color: rgb(249, 255, 253);
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .promise-card {
+    width: 200px;
+    margin-bottom: 30px;
+  }
+  
+  .promise-card-icon {
+    font-size: 30px;
+  }
+  
+  .promise-card-title {
+    color: #7A491F;
+    margin-top: 10px;
+  }
+  
+  .promise-card-text {
+    font-size: 14px;
+  }
+  
+  .team-section {
+    margin-top: 40px;
+  }
+  
